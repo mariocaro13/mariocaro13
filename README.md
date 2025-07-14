@@ -29,10 +29,7 @@ I am passionate about new technologies and always on the lookout for new challen
 
 ## 🧑‍💻 Tech Stack
 
-- Languages: Java, Kotlin, C
-![Java](https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/Code-C-00599C?logo=c&logoColor=white&style=flat-square)
+- Languages: ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square), ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square), ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
 - Tools and Technologies: JetpackCompose, Android Studio, Unity, Git, Firebase, VS Code  
 
 ---
