@@ -48,5 +48,5 @@ I am passionate about new technologies and always on the lookout for new challen
 
 ---
 ## 📫 How to reach me:
-- Mail: Mariocaro2002@gmial.com
-- itch.io: [mariocaro13]([[https://github.com/username/project-a](https://github.com/mariocaro13/Nest-App)](https://mariocaro13.itch.io))
+- Mail: Mariocaro2002@gmail.com
+- itch.io: [mariocaro13]((https://mariocaro13.itch.io))
