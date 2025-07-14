@@ -52,6 +52,6 @@ I am passionate about new technologies and always on the lookout for new challen
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=mariocaro13&layout=compact&theme=dark&hide_border=true)
 
 ---
-## 📫 How to reach me:
+## 📫 Get(in, Touch):
 - Mail: Mariocaro2002@gmail.com
 - itch.io: [mariocaro13](https://mariocaro13.itch.io)
