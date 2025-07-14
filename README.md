@@ -43,8 +43,8 @@ I am passionate about new technologies and always on the lookout for new challen
 ---
 ## 📊 GitHub Stats
 
-![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocaro13&show_icons=true&theme=radical&hide_border=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=mariocaro13&layout=compact&theme=radical&hide_border=true)
+![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocaro13&show_icons=true&theme=dark&hide_border=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=mariocaro13&layout=compact&theme=dark&hide_border=true)
 
 ---
 ## 📫 How to reach me:
