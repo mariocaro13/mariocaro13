@@ -20,14 +20,14 @@ Welcome to my profile. Here you'll find a summary of who I am, my skills, and pr
 
 ---
 
-## About Me
+## 💬 About Me
 
 I am a software developed with experience in C, Java, Kotlin and Unity.  
 I am passionate about new technologies and always on the lookout for new challenges.
 
 ---
 
-## Tech Stack
+## 🧑‍💻 Tech Stack
 
 - Languages: Java, Kotlin, C
 - Tools and Technologies: JetpackCompose, Android Studio, Unity, Git, Firebase, VS Code  
