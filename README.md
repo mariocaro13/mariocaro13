@@ -39,7 +39,7 @@ I am passionate about new technologies and always on the lookout for new challen
 - ### **[Nest App](https://github.com/mariocaro13/Nest-App)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/Nest-App):
   Android application using Jetpack Compose. Aiming to gain experience with cutting-edge Android development technologies.
 
-- ### **[42 Madrid](https://github.com/mariocaro13/42_Madrid)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/42 Madrid):  
+- ### **[42 Madrid](https://github.com/mariocaro13/42_Madrid)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/42_Madrid):  
   A brief summary of my career at Madrid 42.
   
 - ### **[Napp Planner](https://github.com/mariocaro13/NapPlanner)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/NapPlanner):  
