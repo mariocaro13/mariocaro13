@@ -41,8 +41,3 @@ I am passionate about new technologies and always on the lookout for new challen
 - **[Napp Planner]([https://github.com/username/project-c](https://github.com/mariocaro13/NapPlanner))**: Small Android application in Java developed as final degree project.  
 
 ---
-
-## Stats
-
-```markdown
-<!-- Insert your GitHub stats snippet here -->
