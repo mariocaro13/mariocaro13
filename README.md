@@ -44,7 +44,6 @@ I am passionate about new technologies and always on the lookout for new challen
 ## 📊 GitHub Stats
 
 ![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocaro13&show_icons=true&theme=dark&hide_border=true)
-![mariocaro13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariocaro13&theme=dark&hide_border=false)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=mariocaro13&layout=compact&theme=dark&hide_border=true)
 
 ---
