@@ -42,7 +42,7 @@ I am passionate about new technologies and always on the lookout for new challen
 - ### **[42 Madrid](https://github.com/mariocaro13/42_Madrid)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/42_Madrid):  
   A brief summary of my career at Madrid 42.
   
-- ### **[Napp Planner](https://github.com/mariocaro13/NapPlanner)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/NapPlanner):  
+- ### **[Nap Planner](https://github.com/mariocaro13/NapPlanner)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/NapPlanner):  
   Small Android application in Java developed as final degree project.  
 
 ---
