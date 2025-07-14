@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Mario Caro Romero
+
+Welcome to my profile. Here you'll find a summary of who I am, my skills, and projects.
+
+---
+
+## About Me
+
+I am a software developed with experience in C, Java, Kotlin and Unity.  
+I am passionate about new technologies and always on the lookout for new challenges.
+
+---
+
+## Tech Stack
+
+- Languages: Java, Kotlin, C
+- Tools and Technologies: JetpackCompose, Android Studio, Unity, Git, Firebase, VS Code  
+
+---
+
+## Featured Projects
+
+- **[Nest App]([https://github.com/username/project-a](https://github.com/mariocaro13/Nest-App))**: Android application using Jetpack Compose. Aiming to gain experience with cutting-edge Android development technologies.
+- **[42 Madrid]([https://github.com/username/project-b](https://github.com/mariocaro13/42_Madrid))**: A brief summary of my career at Madrid 42.  
+- **[Napp Planner]([https://github.com/username/project-c](https://github.com/mariocaro13/NapPlanner))**: Small Android application in Java developed as final degree project.  
+
+---
+
+## Stats
+
+```markdown
+<!-- Insert your GitHub stats snippet here -->
