@@ -49,4 +49,4 @@ I am passionate about new technologies and always on the lookout for new challen
 ---
 ## 📫 How to reach me:
 - Mail: Mariocaro2002@gmail.com
-- itch.io: [mariocaro13]((https://mariocaro13.itch.io))
+- itch.io: [mariocaro13](https://mariocaro13.itch.io)
