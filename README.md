@@ -46,6 +46,15 @@ I am passionate about new technologies and always on the lookout for new challen
   Small Android application in Java developed as final degree project.  
 
 ---
+
+## 🎮GameJams Projects 🕹️
+
+- ### **[Tiny Broom Vroom!](https://laucia111.itch.io/tiny-broom-vroom))**
+- ### **[ÉchameUnCable](https://villartyom.itch.io/echameuncable)**
+- ### **[SpamOverflow](https://villartyom.itch.io/spamoverflow)**
+
+
+---
 ## 📊 GitHub Stats
 
 ![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocaro13&show_icons=true&theme=dark&hide_border=true)
