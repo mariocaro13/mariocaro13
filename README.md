@@ -49,10 +49,27 @@ I am passionate about new technologies and always on the lookout for new challen
 
 ## 🎮GameJams Projects 🕹️
 
-- ### **[Tiny Broom Vroom!](https://laucia111.itch.io/tiny-broom-vroom))**
-- ### **[ÉchameUnCable](https://villartyom.itch.io/echameuncable)**
-- ### **[SpamOverflow](https://villartyom.itch.io/spamoverflow)**
+- ### **[Tiny Broom Vroom!](https://laucia111.itch.io/tiny-broom-vroom)**:
+ You play as a kid who got scolded by his mom for having a messy room. She won’t let him go out until it’s clean...  
+ but cleaning by hand? No way!  
+ 
+### Time to clean up the fun way!
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13deb7d9-14cd-411d-9ddd-14ce23a09253" />
+  
+- ### **[ÉchameUnCable](https://villartyom.itch.io/echameuncable)**
+It's 1942, and we'll play the role of a telephone operator about to start her first day at the switchboard.
+
+You'll have to figure out on your own where to connect the cables, progressing at work, and avoiding dismissal.
+Tune in to a plot full of surprises and a bit of humor.
+
+<img width="842" height="473" alt="image" src="https://github.com/user-attachments/assets/4ce8ba39-0817-4aa2-ae41-ec3efe64d61f" />
+
+- ### **[SpamOverflow](https://villartyom.itch.io/spamoverflow)**
+You are Caman, a robot within a computer trying to fight spam. Dodge different obstacles and enemies.  
+Avoid dying whenever possible, or things will get worse ;)
+
+<img width="1596" height="897" alt="image" src="https://github.com/user-attachments/assets/3d8fe74a-2f49-4061-a1eb-907f2201446e" />
 
 ---
 ## 📊 GitHub Stats
