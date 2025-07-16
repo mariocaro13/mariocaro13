@@ -34,6 +34,12 @@ I am passionate about new technologies and always on the lookout for new challen
 
 ---
 
+## 📫 Get(in, Touch):
+- Mail: Mariocaro2002@gmail.com
+- itch.io: [mariocaro13](https://mariocaro13.itch.io)
+
+---
+
 ## 🔭 Featured Projects
 
 - ### **[Nest App](https://github.com/mariocaro13/Nest-App)** ![Languages](https://img.shields.io/github/languages/top/mariocaro13/Nest-App):
@@ -76,8 +82,3 @@ Avoid dying whenever possible, or things will get worse ;)
 
 ![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariocaro13&show_icons=true&theme=dark&hide_border=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=mariocaro13&layout=compact&theme=dark&hide_border=true)
-
----
-## 📫 Get(in, Touch):
-- Mail: Mariocaro2002@gmail.com
-- itch.io: [mariocaro13](https://mariocaro13.itch.io)
